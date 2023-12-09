@@ -1,0 +1,32 @@
+{
+    "Title":"Forecasting municipal solid waste in Lithuania by incorporating socioeconomic and geographical factors",
+    "Authors":[
+       "Agne Paulauskaite-Taraseviciene",
+       "Vidas Raudonis",
+       "Kristina Sutiene"
+    ],
+    "Addresses":[
+       {
+          "Department":"Department of Applied Informatics",
+          "University":"Kaunas University of Technology",
+          "Address":"Studentu 50, Kaunas 51368, Lithuania"
+       },
+       {
+          "Department":"Department of Automation",
+          "University":"Kaunas University of Technology",
+          "Address":"Studentu 48, Kaunas 51367, Lithuania"
+       },
+       {
+          "Department":"Department of Mathematical Modelling",
+          "University":"Kaunas University of Technology",
+          "Address":"Studentu 50, Kaunas 51368, Lithuania"
+       }
+    ],
+    "Keywords":[
+       "Municipal solid waste",
+       "Forecasting",
+       "Composition",
+       "Machine learning",
+       "K-nearest neighbours"
+    ]
+ }
